@@ -44,5 +44,7 @@ The following are the instructional tasks to complete the project:
 - ZenHub
 - Burndown chart
 
+## Project [Live link](https://app.zenhub.com/workspaces/final-project-6448f8fe872a060018a35618?invite=yD9oL1rwtrv2So1gHDKEJ3Tg)
+
 ## Contributors
 - Evans Kupour
